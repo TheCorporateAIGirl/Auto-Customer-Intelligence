@@ -10,7 +10,7 @@ In the luxury mobility sector, a one-size-fits-all approach limits growth. This 
 
 ## 📊 Visualizing the Segments
 ![Customer Segmentation Plot](customer_segments.png.png)
-*Figure 1: Clustering analysis of Age vs. Spending Profiles, revealing high-value demographic targets.*
+*Fig.1.0: Clustering analysis of Age vs. Spending Profiles, revealing high-value demographic targets.*
 
 ---
 
